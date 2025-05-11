@@ -70,7 +70,8 @@ print(response.json())
 * ✅ Docker container oluşturuldu ve bulutta dağıtıldı
 * ✅ API ile tahminler başarılı şekilde alındı
 * ✅ Tahmin doğruluğu veri seti ile karşılaştırılarak test edildi
-
+## Youtube
+https://youtu.be/6Xe0H6ozY-s
 ## 📌 Sonuç
 
 Bu proje ile uçtan uca bir makine öğrenmesi çözümü başarıyla geliştirildi ve Google Cloud üzerinde canlıya alındı. Hem veri bilimi hem de bulut mimarisi açısından güçlü bir örnek teşkil etmektedir.
